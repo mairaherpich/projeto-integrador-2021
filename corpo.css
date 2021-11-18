@@ -1,0 +1,128 @@
+        /* cabeçalho */
+body {
+    background-color: #eeeeeeff;
+    padding: 0px;
+    margin: 0;
+    border: 0;
+}
+.topo {
+    width: auto;
+    top: 0px;
+}
+.cabecalho {
+    width: auto;
+    top: 0;
+}
+.cabecalho>img {
+    width: 100%;
+    height: 500px;
+    box-shadow: rgb(109, 102, 102);
+}
+nav{
+    background-color: #2d1650ff;
+    font-family: Century Gothic;
+    font-size: 16px;
+    padding-top: 1px;
+    padding-left: 2px;
+    padding-bottom: 1px;
+    word-spacing: 20px;
+    text-align: left;
+    top: 0;
+    width: 100%;
+    position: fixed;
+    font-weight: bold;
+}
+nav ul li a:hover{
+    color: #ff7f35;
+    transition: 0.8s;
+}
+
+li{
+    display: inline;
+    text-decoration: none;  
+    color: #e5d5ffff;
+}
+li>a{
+    color: #e5d5ffff;
+    text-decoration: none;
+}
+li>a>span {
+    color: #ff7f35;
+}
+
+        /* elementos do corpo */
+
+.boxtext1 {
+    margin-top: 5rem;
+	margin-right: 5rem;
+	margin-left: 2rem;
+	border: none;
+	/* background-color: white; */
+    font-family: Microsoft JhengHei Light;
+    /* padding: 15px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem; */
+    text-align: justify;
+}
+.boxtext2 {
+    margin-top: 5rem;
+	margin-right: 5rem;
+	margin-left: 5rem;
+	border: none;
+	background-color: white;
+    font-family: Microsoft JhengHei Light;
+    /* padding: 15px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem; */
+}
+        /* titilo */
+h1 span {
+    color: white;
+    background-color: #D81159;
+    display: inline;
+    font-weight: bold;
+    font-size: 38px;
+}
+h1 {
+    font-family: Century Gothic;
+    font-size: 33px;
+    color: #F26157;
+}
+
+.boxart {
+    margin-top: 5rem;
+	margin-right: 5rem;
+	margin-left: 5rem;
+	border: transparent;
+	/* padding: 15px; */
+	background-image: linear-gradient(to right, hsl(156, 48%, 72%), #8ac5df);
+    font-family: Microsoft JhengHei Light;
+    width: auto;
+    height: 400px;
+}
+footer {
+    /* background-color: #2d1650ff;
+    border-radius: 20px 20px 0px 0px; */
+    color: #E4E4E4;
+    font-family: Microsoft JhengHei Light;
+    font-size: 12px;
+    padding: 5rem;
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+}
+footer>img {
+    width: 100%;
+    height: 250px;
+    margin: 0;
+}
+footer>p {
+    position: absolute;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
