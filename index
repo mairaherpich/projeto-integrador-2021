@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>OBESIDADE</title>
+		<link rel="stylesheet" type="text/css" href="corpo.css">
+	</head>
+    <body>
+        <div class="topo">
+            <nav>
+                <ul>
+                    <li><a href="#"><span> Obesidade </span> </a></li>
+                    <li><a href="receitas.html"> Receitas </a></li>
+                    <li><a href="exercicios.html"> Exercícios </a></li>
+                    <li><a href="sobre.html"> Sobre </a></li>
+                </ul>
+            </nav>
+
+        <div class="cabecalho">
+            <img src="desenho_nav.png" alt="desenho_nav">
+        </div>
+        
+        </div>
+        <div class="boxtext1">
+            <h1>
+                O que é <span>&nbsp;OBESIDADE?&nbsp;</span>
+            </h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint dignissimos harum 
+                molestias architecto dolorem. Tempora minima, dolorem tenetur et officia voluptatem, 
+                quaerat in nihil eius explicabo veritatis laboriosam maxime aperiam.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint dignissimos harum
+                molestias architecto dolorem. Tempora minima, dolorem tenetur et officia voluptatem, 
+                quaerat in nihil eius explicabo veritatis laboriosam maxime aperiam.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint dignissimos harum 
+                molestias architecto dolorem. Tempora minima, dolorem tenetur et officia voluptatem, 
+                quaerat in nihil eius explicabo veritatis laboriosam maxime aperiam.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint dignissimos harum
+                molestias architecto dolorem. 
+            </p>
+        </div>
+        <div class="boxart">
+        </div>
+        <div class="boxtext2">
+            <h1>
+                A <p>&nbsp;GENÉTICA&nbsp;</p> importa?
+            </h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint dignissimos harum 
+                molestias architecto dolorem. Tempora minima, dolorem tenetur et officia voluptatem, 
+                quaerat in nihil eius explicabo veritatis laboriosam maxime aperiam.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint dignissimos harum
+                molestias architecto dolorem. Tempora minima, dolorem tenetur et officia voluptatem, 
+                quaerat in nihil eius explicabo veritatis laboriosam maxime aperiam.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint dignissimos harum 
+                molestias architecto dolorem. Tempora minima, dolorem tenetur et officia voluptatem, 
+                quaerat in nihil eius explicabo veritatis laboriosam maxime aperiam.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint dignissimos harum
+                molestias architecto dolorem. 
+            </p>
+        </div>
+
+            <br><br><br><br>
+
+        <footer>
+                <img src="desenho_footer.png" alt="">
+
+                <p>Agradecimentos</p> 
+                <p><a href="#">Referêcias</a></p> 
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p> <br>
+        </footer>
+    </body>
+
+
