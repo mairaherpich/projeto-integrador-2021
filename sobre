@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>OBESIDADE</title>
+		<link rel="stylesheet" type="text/css" href="sobre.css">
+	</head>
+    <body>
+        <div class="topo">
+            <div class="cabecalho">
+                <!-- <figure>
+                    <img src="quadrado_branco.jpg" alt="quadrado branco" width="600px" height="225px">
+                </figure> -->
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="corpo.index.html"> OBESIDADE </a></li>
+                    <li><a href="receitas.html"> RECEITAS </a></li>
+                    <li><a href="exercicios.html"> EXERCÍCIOS </a></li>
+                    <li><a href="#"> SOBRE </a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="boxtext1">
+            <h1>
+                Quem <p>&nbsp;NÓS&nbsp;</p> somos?
+            </h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint dignissimos harum 
+                molestias architecto dolorem. Tempora minima, dolorem tenetur et officia voluptatem, 
+                quaerat in nihil eius explicabo veritatis laboriosam maxime aperiam.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint dignissimos harum
+                molestias architecto dolorem. Tempora minima, dolorem tenetur et officia voluptatem, 
+                quaerat in nihil eius explicabo veritatis laboriosam maxime aperiam.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint dignissimos harum 
+                molestias architecto dolorem. Tempora minima, dolorem tenetur et officia voluptatem, 
+                quaerat in nihil eius explicabo veritatis laboriosam maxime aperiam.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint dignissimos harum
+                molestias architecto dolorem. 
+            </p>
+            <figure>
+                <img src="#" alt=" Possível imagem referente às criadoras do site.">
+            </figure>
+        </div>
+
+        <div class="boxart">
+        </div>
+
+        <div class="boxtext2">
+            <h1>
+                Por que <p>&nbsp;CRIAMOS&nbsp;</p> esse site?
+            </h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint dignissimos harum 
+                molestias architecto dolorem. Tempora minima, dolorem tenetur et officia voluptatem, 
+                quaerat in nihil eius explicabo veritatis laboriosam maxime aperiam.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint dignissimos harum
+                molestias architecto dolorem. Tempora minima, dolorem tenetur et officia voluptatem, 
+                quaerat in nihil eius explicabo veritatis laboriosam maxime aperiam.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint dignissimos harum 
+                molestias architecto dolorem. Tempora minima, dolorem tenetur et officia voluptatem, 
+                quaerat in nihil eius explicabo veritatis laboriosam maxime aperiam.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint dignissimos harum
+                molestias architecto dolorem. 
+            </p>
+            <figure>
+                <img src="#" alt=" Possível imagem referente o objetivo do site.">
+            </figure>
+        </div>
+
+        <div class="boxart">
+        </div>
+
+        <div class="boxtext3">
+            <h1>
+                Todos os <p>&nbsp;CRÉDITOS&nbsp;</p> 
+            </h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint dignissimos harum 
+                molestias architecto dolorem. Tempora minima, dolorem tenetur et officia voluptatem, 
+                quaerat in nihil eius explicabo veritatis laboriosam maxime aperiam.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint dignissimos harum
+                molestias architecto dolorem. Tempora minima, dolorem tenetur et officia voluptatem, 
+                quaerat in nihil eius explicabo veritatis laboriosam maxime aperiam.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint dignissimos harum 
+                molestias architecto dolorem. Tempora minima, dolorem tenetur et officia voluptatem, 
+                quaerat in nihil eius explicabo veritatis laboriosam maxime aperiam.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint dignissimos harum
+                molestias architecto dolorem. 
+            </p>
+            <figure>
+                <img src="#" alt=" Possível imagem referente aos créditos - escola, professores...">
+            </figure>
+        </div>
+
+        <div class="boxart">
+        </div>
+
+            <br><br><br><br>
+
+        <footer>
+            <p>Agradecimentos</p> 
+            <p><a href="#">Referêcias</a></p> 
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p> <br>
+        </footer>
+    </body>
+</html>
+
