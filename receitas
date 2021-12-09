@@ -40,3 +40,91 @@
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p><br>
         </footer>
     </body>
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-/*atualizado*/-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Alimentação</title>
+		<link rel="stylesheet" type="text/css" href="alimentacao.css">
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400&display=swap'); 
+            /* texto */
+            @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@600&display=swap');
+            /* titulo simple text */
+        </style>
+	</head>
+    <body>
+        <header>
+            <div class="topo">
+                <nav>
+                    <ul>
+                        <li><a href="corpo.index.html"> Obesidade </a></li>
+                        <li><a href="#"> <span> Alimentação </span></a></li>
+                        <li><a href="exercicios.html"> Exercícios </a></li>
+                        <li><a href="sobre.html"> Sobre </a></li>
+                    </ul>
+                </nav>
+
+                <div class="cabecalho">
+                    <img src="nav_alimentacao.svg" width='100%' height='200px'>
+                </div>
+            </div>
+        </header>
+
+        <div id="box_infancia">
+            <img id="img_infancia" src="infancia_adolescencia.svg" alt="" width="1000px" height="800px"> 
+            <p id="text_infancia">É essencial ter uma boa alimentação desde a infância, para assim ter uma ótima qualidade de vida  e evitar futuras complicações na vida adulta.
+                Até mesmo uma dieta inapropriada da mãe durante a gestação pode influenciar em alguma futura doença na criança. Por isso a importância de ter hábitos alimentares saudáveis desde cedo que proporcionaram níveis ideais de saúde e contribuíram para um perfeito desenvolvimento físico e intelectual evitando a obesidade e outros distúrbios alimentares.
+                </p>
+        </div>
+
+        <div>
+            <img id="img_dicas" src="dicas_saude.svg" alt="">
+            <p class="texto_dicas">
+                Uma alimentação correta pode evitar muitos problemas como colesterol, pressão alta, diabetes e até mesmo câncer. 
+                A alimentação é a base para a nutrição e desenvolvimento durante a infância e adolescência.<br><br>
+                Dicas de alimentação para colocar em prática:
+            </p>
+            <div class="simple_text">
+                <p><span>1-</span> Prefira os alimentos naturais; <br>
+                <span>2-</span> Aprenda a ler os rótulos;<br>
+                <span>3-</span> Evite o excesso de sal e de açúcar;<br>
+                <span>4-</span> Faça substituições;<br>
+                <span>5-</span> Invista nas frutas;<br>
+                <span>6-</span> Saiba fazer combinações inteligentes;<br>
+                <span>7-</span> Alimente-se devagar;<br>
+                <span>8-</span> Beba, no mínimo, 2 litros de água por dia;<br>
+                <span>9-</span> Comer pelo menos 2 unidades de fruta por dia;<br>
+                <span>10-</span> Consumir legumes e verduras no almoço e no jantar;</p>
+            </div>
+        </div>
+
+        <figure>
+            <img src="imgexercicio.jpg" alt="exercicios">
+        </figure>
+
+       
+
+            <br><br><br><br>
+
+        <footer>
+            <div id="box_logo_ifc">
+                <p id="agradecimentos">Agradecimentos</p> 
+                <img id="logo_ifc" src="logo_ifc.svg" alt="logo instituto" >
+            </div> 
+
+            <div class="text_center_footer">
+                <p>O conteúdo presente nesse site possui um caráter informativo e não substitui a consulta com um profissional de saúde.</p>
+                <p>O site #  é um projeto do  componente curricular, Projeto Integrador, do Instituto Federal Catarinense campus Concórdia.</p>
+                <p>Criadoras: Bruna Czarnobay, Josiele Scheuermann e Maíra Herpich.</p>
+                <p>Dezembro/2021</p>
+            </div>
+
+            <p id="referencias"><a href="#">Referêcias</a></p>
+        </footer>
+    </body>
+</html>
+
