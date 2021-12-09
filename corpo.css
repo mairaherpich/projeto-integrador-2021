@@ -126,3 +126,224 @@ footer a {
     color: white;
     text-decoration: none;
 }
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=/*atualizado*/-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+        /* cabeçalho */
+body {
+    background-color: #f3f3f3ff;
+    padding: 0px;
+    margin: 0;
+    border: 0;
+}
+
+.topo {
+    width: auto;
+    top: 0px;
+}
+
+.cabecalho {
+    width: auto;
+    top: 0;
+}
+
+.cabecalho>img {
+    width: 100%;
+    height: 600px;
+}
+
+        /* navbar */
+
+nav{
+    background-color: #2d1650ff;
+    font-family: Century Gothic;
+    font-size: 16px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    word-spacing: 20px;
+    text-align: left;
+    font-weight: bold;
+    top: 0;
+    width: 100%;
+    position: fixed;
+}
+
+nav>ul>li>a:hover {
+    color: #ff7f35;
+    transition: 0.8s;
+}
+
+li{
+    display: inline;
+    text-decoration: none;  
+    color: #e5d5ffff;
+}
+
+li>a{
+    color: #e5d5ffff;
+    text-decoration: none;
+}
+
+li>a>span {
+    color: #ff7f35;
+}
+
+        /* de fato obesidade */
+
+.box_obesidade {
+    margin-top: 3.5rem;
+    margin-bottom: 3.5rem;
+    margin-right: 5.5rem;
+    margin-left: 3rem;
+}
+
+#img_obesidade {
+    float: left;
+    display: block;
+    margin-right: 1.7rem;
+}
+
+#text_obesidade {  
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+}
+
+        /* simple text */
+
+.simple_text {
+    margin-top: 5rem;
+    margin-right: 5rem;
+    margin-left: 5rem;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    font-family:  'Titillium Web', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    color: #650A71;
+}
+
+        /* Tabela obesidade */
+
+#tabela_obesidade {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    padding-bottom: 5px;
+}
+
+.texto_tabela {
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-bottom: 5rem;
+    font-size: 15px;
+}
+
+div p span {
+    font-weight: bold;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 20px;
+    color: #399376ff;
+}
+
+        /* fatores */
+
+#box_fatores {
+    margin-top: 0rem;
+    margin-right: 5.5rem;
+    margin-bottom: 7rem;
+    margin-left: 5.5rem;
+}
+      
+#text_fatores {
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#img_fatores {
+    float: left;
+    display: block;
+    margin-right: 1.7rem;
+}
+
+       /* aumento doenças */
+
+.aumento_doencas {
+    margin-top: 5rem;
+    margin-right: 3rem;
+    margin-left: 3rem;
+    padding: 15px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+}
+        
+
+
+        /* titilo */
+        
+figure>img {
+    width: 1230px;
+    height: 730px;
+    margin: 1px;
+}
+
+        /* rodapé */
+ 
+footer {
+    background-color: #f9f9f9ff;
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+
+}
+
+footer a {
+    text-decoration: none;
+    color: black;
+}
+
+
+#referencias {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    color: black;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    float: right;
+}
+
+.text_center_footer {
+    align-items: center;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 9px;
+    color: black;
+}
+
+        /* div logo ifc */
+
+/* #box_logo_ifc {
+    
+} */
+
+#logo_ifc {
+    float: left;
+    display: block;
+    margin-left: 1.7rem;
+}
+
+#agradecimentos {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    color: black;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    float: left;
+}
