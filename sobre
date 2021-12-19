@@ -243,3 +243,69 @@ footer a {
     font-size: 12px;
     color: black;
 }
+
+----------------------------atualizado 18/12/2021-------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="icon.svg" >
+    <title>Sobre Nós</title>
+    <link rel="stylesheet" href="sobre.css">
+</head>
+<body>
+    <header>
+        <div class="topo">
+            <nav>
+                <ul>
+                    <li class="lista-nav"><a href="corpo.index.html"> Obesidade </a></li>
+                    <li class="lista-nav"><a href="alimentacao.html"> Alimentação </a></li>
+                    <li class="lista-nav"><a href="receitas.html"> Receitas </a></li>
+                    <li class="lista-nav"><a href="exercicios.html"> Exercícios </a></li>
+                    <li class="lista-nav"><a href="sobre.html"><span> Sobre </span></a></li>
+                </ul>
+            </nav>
+
+            <div class="cabecalho">
+                <img src="nav-sobre.svg" width='100%' height='200px'>
+            </div>
+        </div>
+    </header>
+
+    <div class="nos">
+        <img id="foto-nos" src="nos.jpg" alt="nos" width="600px">
+
+        <div class="texto">
+            <img id="sobre" src="sobre.svg" alt="">
+            <p>O site Você Saudável faz parte de uma atividade do Projeto Integrador do Instituto Federal Catarinense Campus Concórdia. Orientado pelos professores Matheus Pellosso, Rútia Leilaine Hilgert, Tiago Mazzutti, Suzana Back, Jerson Isoton e Najin Lima. </p>
+            <p>O site Você Saudável tem o objetivo de ajudar e instruir crianças e adolescentes a terem uma vida mais saudável juntamente auxiliando os pais a propor aos seus filhos novos hábitos alimentares, rotina pre determinada com prática de atividades físicas com seu foco principal no combate da obesidade em crianças e adolescentes. Agradecemos a instrução dos professores e a colaboração, sendo essencial críticas e elogios para um bom desenvolvimento do trabalho.</p>
+        </div>
+        
+    </div>
+
+    <footer>
+        <div id="box_logo_ifc">
+            <p id="agradecimentos">Agradecimentos</p> 
+
+            <a href="https://concordia.ifc.edu.br" target="_blank">
+                <img id="logo_ifc" src="logo-if-h.png" alt="logo instituto" >
+            </a>
+
+            <p id="referencias"><a href="https://drive.google.com/file/d/1NY6yKba-By_RgEpCgDLtIt2xMQCz2SrR/view" target="_blank">Referêcias</a></p>
+        </div> 
+
+
+        <div class="text_center_footer">
+            <p>O conteúdo presente nesse site possui um caráter informativo e não substitui a consulta com um profissional de saúde.</p>
+            <p>O site Você Saudável é um projeto do  componente curricular, Projeto Integrador, do Instituto Federal Catarinense campus Concórdia.</p>
+            <p>Criadoras: Bruna Czarnobay, Josiele Scheuermann e Maíra Herpich.</p>
+            <p>Dezembro/2021</p>
+        </div>
+
+        
+    </footer>
+</body>
+</html>
