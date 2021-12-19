@@ -1,0 +1,598 @@
+18/12/2021
+
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Receitas</title>
+        <link rel="shortcut icon" href="icon.svg" >
+        <link rel="stylesheet" href="receitas.css">
+    </head>
+    <body>
+        <header>
+            <div class="topo">
+                <nav>
+                    <ul>
+                        <li class="lista-nav"><a href="corpo.index.html"> Obesidade </a></li>
+                        <li class="lista-nav"><a href="alimentacao.html"> Alimentação </a></li>
+                        <li class="lista-nav"><a href="#"><span> Receitas </span></a></li>
+                        <li class="lista-nav"><a href="exercicios.html"> Exercícios </a></li>
+                        <li class="lista-nav"><a href="sobre.html"> Sobre </a></li>
+                       
+                    </ul>
+                </nav>
+
+                <div class="cabecalho">
+                    <img src="nav-receitas.svg">
+                </div>
+            </div>
+        </header>
+
+        <div class="nome-receita">
+            <img src="cafe-manha.svg" alt="">
+        </div>
+
+<!-- cappuccino -->
+        <div class="margens">
+            <ul class="lista-titulo">
+                <li class="titulo-1">Cappuccino com granita de café</li>
+                <li class="titulo-2">83 kcal</li>
+            </ul>
+
+            <p class="titulo-3">Ingredientes:</p>
+            <ul class="lista">
+                <li>1 dose de café orgânico (para a granita)</li>
+                <li>1 dose de café orgânico (para o capuccino)</li>
+                <li>1 colher (sopa) de óleo de coco orgânico</li>
+                <li>2 xícaras (chá) de bebida de aveia orgânica com chocolate</li>
+                <li>1 colher (sopa) de açúcar de coco </li>
+            </ul>
+
+            <p class="titulo-3">Modo de preparo:</p>
+
+            <ul class="lista">
+                <p class="negrito">Granita</p>
+                <li>Prepare uma dose de café, mas colocando o dobro de água;</li>
+                <li>Distribua a bebida em forminhas de gelo;</li>
+                <li>Leve ao freezer até formar gelo (dependendo da temperatura do freezer, pode ser necessário preparar no dia anterior).</li>
+            </ul>
+
+            <ul class="lista">
+                <p class="negrito">Cappuccino</p>
+                <li>Prepare uma dose de café normalmente e, ainda quente, coloque-o no liquidificador e bata com o óleo de coco, o leite de aveia gelado e o açúcar de coco.</li>
+                <li>Em seguida desenforme os gelos de café e triture rapidamente no liquidificador para formar a granita;</li>
+                <li>Distribua um pouco de granita em cada copo e complete com o cappuccino.</li>
+            </ul>
+        </div>
+
+<!-- golden milk -->
+        <div class="margens">
+            <ul class="lista-titulo">
+                <li class="titulo-1">Golden milk</li>
+                <li class="titulo-2">102 kcal</li>
+            </ul>
+
+            <p class="titulo-3">Ingredientes:</p>
+            <ul class="lista">
+                <li>400ml de leite zero lactose semidesnatado</li>
+                <li>1 colher (café) de cúrcuma — 4g</li>
+                <li>1 de colher (café) de gengibre em pó — 4g</li>
+                <li>1 pitada de pimenta-do-reino triturada</li>
+                <li>1 pitada de canela em pó</li>
+                <li>1 pitada de cardamomo em pó</li>
+                <li>1 colher (sopa) de melado de cana</li>
+            </ul>
+
+            <p class="titulo-3">Modo de preparo:</p>
+            <ul class="lista">
+                <li>Em uma panela, coloque todos os ingredientes e leve ao fogo brando e deixe ferver.
+                </li>
+                <li>Sirva quente.</li>
+            </ul>
+        </div>
+
+<!-- mingau -->
+        <div class="margens">
+            <ul class="lista-titulo">
+                <li class="titulo-1">Mingau de aveia vegano e sem lactose</li>
+                <li class="titulo-2">485 kcal</li>
+            </ul>
+
+            <p class="titulo-3">Ingredientes:</p>
+            <ul class="lista">
+                <li>1 xícara (chá) de aveia orgânica (80 g)</li>
+                <li>1 xícara (chá) de leite de aveia (240 ml)</li>
+                <li>200 ml de leite de coco ou água</li>
+                <li>2 colheres (sopa) de açúcar demerara orgânico (30 g)</li>
+                <li>6 ameixas-pretas sem caroço picadas (40 g)</li>
+                <li>4 colheres (sopa) de granola</li>
+                <li>1 banana orgânica cortada em rodelas (170 g)</li>
+            </ul>
+
+            <p class="titulo-3">Modo de preparo:</p>
+            <ul class="lista">
+                <li>Em uma panela, coloque a aveia, os leites, o açúcar e as ameixas;</li>
+                <li>Leve ao fogo brando, mexendo sempre até engrossar;</li>
+                <li>Distribua em tigelas, coloque algumas rodelas de banana e polvilhe a granola;</li>
+                <li>Sirva quente.</li>
+            </ul>
+        </div>
+<!-- panqueca -->
+            <div class="margens">
+                <ul class="lista-titulo">
+                    <li class="titulo-1">Panqueca integral de banana</li>
+                    <li class="titulo-2">214 Kcal</li>
+                </ul>
+
+                <p class="titulo-3">Ingredientes:</p>
+                <ul class="lista">
+                    <li>1 xícara (chá) de farinha de aveia</li>
+                    <li>2 bananas-nanicas orgânicas  — 180 g</li>
+                    <li>2 colheres (sopa) de chia  — 30 g</li>
+                    <li>1 xícara (chá) de leite de amêndoas — 240 ml</li>
+                    <li>1 colher (chá) de fermento</li>
+                    <li>2 colheres (sopa) de óleo de coco — 30 g</li>
+                    <li>Frutas orgânicas picadas (morango, kiwi, manga, etc.)</li>
+                    <li>Mel orgânico</li>
+                </ul>
+
+                <p class="titulo-3">Modo de preparo:</p>
+                <ul class="lista">
+                    <li>No liquidificador, bata a banana, a farinha de aveia, o leite de amêndoas, o fermento e uma colher de óleo de coco;</li>
+                    <li>Misture a chia;</li>
+                    <li>Deixe a massa descansar por 15 minutos;</li>
+                    <li>Em uma frigideira pequena, aqueça o óleo de coco e doure as panquecas dos dois lados;</li>
+                    <li>Por cima coloque as frutas picadas e um fio de mel.</li>
+                </ul>
+            </div>
+<!-- toast -->
+            <div class="margens">
+                <ul class="lista-titulo">
+                    <li class="titulo-1">Toast de pasta de amendoim e banana</li>
+                    <li class="titulo-2">276 kcal</li>
+                </ul>
+                <p class="titulo-3">Ingredientes:</p>
+
+                <ul class="lista">
+                    <li>2 fatias de pão integral rústico de fermentação natural (90 g)</li>
+                    <li>1 colher (sopa) de óleo de coco sem sabor (13 g)</li>
+                    <li>1 colher (sopa) de sementes de girassol (10 g)</li>
+                    <li>1 banana madura orgânica (100 g)</li>
+                    <li>Suco de ½ limão orgânico (20 g)</li>
+                    <li>3 colheres (sopa) de pasta de amendoim (30 g)</li>
+                    <li>1 colher (sopa) de melado de cana-de-açúcar (20g)</li>
+                </ul>
+
+                <p class="titulo-3">Modo de preparo:</p>
+                <ul class="lista">
+                    <li>Aqueça o óleo de coco em uma frigideira antiaderente e doure as fatias de pão dos dois lados;</li>
+                    <li>Na mesma frigideira, sem lavar, toste as sementes de girassol;</li>
+                    <li>Corte a banana em rodelas, coloque em um recipiente e regue com o limão;</li>
+                    <li>Sobre cada fatia de pão, espalhe a pasta de amendoim e disponha as rodelas de banana;</li>
+                    <li>Finalize com um fio de melado e as sementes de girassol.</li>
+            
+                </ul>
+            </div>
+        
+        <div class="nome-receita">
+            <img src="almoco.svg" alt="">
+        </div>
+
+<!-- espaguete -->
+            <div class="margens">
+                <ul class="lista-titulo">
+                    <li class="titulo-1">Espaguete com legumes assados:</li>
+                    <li class="titulo-2">250 kcal</li>
+                </ul>
+
+                <p class="titulo-3">Ingredientes:</p>
+                <ul class="lista">
+                    <li>250g de espaguete integral</li>
+                    <li>200g de tomate-cereja orgânica cortados ao meio</li>
+                    <li>1 pimentão vermelho orgânico cortado em tiras finas</li>
+                    <li>1 dente de alho orgânico cortados em lâminas (8g)</li>
+                    <li>Sal e pimenta-do-reino moída na hora a gosto</li>
+                    <li>1 colher (chá) de cúrcuma (5g)</li>
+                    <li>2 colheres (sopa) de azeite orgânico (30g)</li>
+                    <li>1 abobrinha orgânica cortada em tirinhas no sentido do comprimento (100g)</li>
+                </ul>
+
+                <p class="titulo-3">Modo de preparo:</p>
+                <ul class="lista">
+                    <li>Cozinhe o macarrão;</li>
+                    <li>Enquanto isso, coloque os tomatinhos, o pimentão e o alho em uma assadeira.</li>
+                    <li>Tempere com sal, pimenta e cúrcuma e regue com o azeite;</li>
+                    <li>Leve ao forno preaquecido (200˚C) e asse até os tomatinhos murcharem levemente (cerca de 20 minutos);</li>
+                    <li>Quando o espaguete estiver pronto, acrescente as tirinhas de abobrinha, desligue o fogo e aguarde um minuto;</li>
+                    <li>Em seguida, escorra e transfira ainda quente para uma travessa;</li>
+                    <li>Misture os legumes assados à massa e sirva em seguida.</li>
+                </ul>
+            </div>
+
+<!-- lasanha -->
+            <div class="margens">
+                <ul class="lista-titulo">
+                    <li class="titulo-1">Lasanha de abobrinha</li>
+                </ul>
+
+                <p class="titulo-3">Ingredientes:</p>
+                <ul class="lista">
+                    <li>2 abobrinhas orgânicas fatiadas no sentido longitudinal</li>
+                    <li>Sal e pimenta-do-reino moída a gosto</li>
+                    <li>3 ovos orgânicos batidos</li>
+                    <li>1 xícara (chá) de farinha de trigo integral</li>
+                    <li>4 colheres (sopa) de azeite orgânico</li>
+                    <li>1 vidro de molho</li>
+                    <li>300 g de queijo minas fresco ralado</li>
+                    <li>150 g de creme de ricota</li>
+                    <li>Salsa orgânica picada a gosto</li>
+                </ul>
+
+                <p class="titulo-3">Modo de preparo:</p>
+                <ul class="lista">
+                    <li>Tempere as fatias de abobrinha com um pouco de sal;</li>
+                    <li>Passe no ovo e na farinha de trigo;</li>
+                    <li>Aqueça o azeite em uma frigideira antiaderente e doure as fatias de abobrinha;</li>
+                    <li>Em uma tigela, misture bem 200 g queijo e o creme de ricota, tempere com um pouco de sal, a pimenta e um fio de azeite;</li>
+                    <li>Em um refratário, coloque uma camada de molho, uma camada de abobrinha, uma camada de creme de queijo e salsa;</li>
+                    <li>Alterne as camadas e termine com o molho e queijo ralado restante;</li>
+                    <li>Leve ao forno pré aquecido até o queijo derreter;</li>
+                    <li>Sirva em seguida.</li>
+                </ul>
+            </div>
+
+<!-- nhoque -->
+            <div class="margens">
+                <ul class="lista-titulo">
+                    <li class="titulo-1">Nhoque de cenoura</li>
+                    <li class="titulo-2">205 kcal</li>
+                </ul>
+
+                <p class="titulo-3">Ingredientes:</p>
+                <ul class="lista">
+                    <li>1 e ½ xícara (chá) de cenoura orgânica em cubos (250 g)</li>
+                    <li>2 xícaras (chá) de batata-doce orgânica em cubos (250 g)</li>
+                    <li>1 colher (sopa) de azeite orgânico (13 g)</li>
+                    <li>Sal e pimenta-do-reino moída na hora a gosto</li>
+                    <li>1 ovo orgânico</li>
+                    <li>1 xícara (chá) de farinha de trigo integral (100 g)</li>
+                    <li>1 pitada de noz-moscada ralada</li>
+                    <li>1 embalagem de passata de tomate orgânico(330 g)</li>
+                    <li>Folhas de manjericão orgânico</li>
+                    <li>100 g de mussarela de búfala zero lactose</li>
+                </ul>
+
+                <p class="titulo-3">Modo de preparo:</p>
+                <ul class="lista">
+                    <li>Em uma assadeira, disponha os cubos de cenoura e batata-doce, regue com um fio de azeite e tempere com sal e pimenta.</li>
+                    <li>Cubra com papel alumínio e asse em forno preaquecido (200˚C) até ficarem bem macios (cerca de 60 minutos).</li>
+                    <li>Deixe esfriar e passe no processador.</li>
+                    <li>Em um recipiente, coloque a mistura processada e junte o ovo, a farinha de trigo e a noz-moscada.</li>
+                    <li>Misture muito bem e depois trabalhe a massa com as mãos até parar de grudar.</li>
+                    <li>Se necessário, adicione mais farinha pouco a pouco.</li>
+                    <li>Modele rolinhos e corte os nhoques no tamanho desejado.</li>
+                    <li>Cozinhe-os em água fervente com uma pitada de sal, colocando pequenas porções de cada vez.</li>
+                    <li>Quando os nhoques subirem à superfície, retire com uma escumadeira.</li>
+                    <li>Transfira para um refratário untado com azeite, evitando sobrepor os nhoques. Reserve mantendo aquecido.</li>
+                    <li>Para o molho, basta aquecer a passata.</li>
+                    <li>Sirva quente, decorado com as folhas de manjericão e a mussarela de búfala.
+                    </li>
+                </ul>
+            </div>
+
+<!-- strogonoff -->
+            <div class="margens">
+                <ul class="lista-titulo">
+                    <li class="titulo-1">Strogonoff vegano</li>
+                    <li class="titulo-2">205 kcal</li>
+                </ul>
+
+                <p class="titulo-3">Ingredientes:</p>
+                <ul class="lista">
+                    <li>2 colheres (sopa) de azeite orgânico(26 ml)</li>
+                    <li>1 cebola orgânica em cubos pequenos (60 g)</li>
+                    <li>200 g de cogumelo shiitake cortado em lâminas</li>
+                    <li>150 g de palmito pupunha cortado em cubos</li>
+                    <li>2 colheres (sopa) de molho de tomate orgânico (40 ml)</li>
+                    <li>1 pitada de sal e pimenta-do-reino moída na hora a gosto</li>
+                    <li>500 ml de bebida de aveia orgânica</li>
+                    <li>Salsa orgânica picada a gosto</li>
+                    <li>Arroz integral para acompanhar</li>
+                    <li>2 pacotes de Snacks de Quinoa</li>
+                </ul>
+
+                <p class="titulo-3">Modo de preparo:</p>
+                <ul class="lista">
+                    <li>Em uma panela, aqueça o azeite e refogue a cebola até ficar translúcida;</li>
+                    <li>Baixe o fogo e adicione o shiitake;</li>
+                    <li>Mexa bem e deixe cozinhar por 3 minutos;</li>
+                    <li>Junte o palmito e o molho de tomate e tempere com sal e pimenta;</li>
+                    <li>Por último, adicione o leite de aveia e deixe cozinhar até engrossar levemente;</li>
+                    <li>Na hora de servir, salpique a salsa e acompanhe com arroz integral e os snacks de quinoa.</li>
+                
+                </ul>
+            </div>
+
+        <div class="nome-receita">
+            <img src="lanches.svg" alt="">
+        </div>
+
+    <!-- doces -->
+<!-- bolo -->
+            <div class="margens">
+                <img src="acucar.svg" alt="">
+            
+                <ul class="lista-titulo">
+                    <li class="titulo-1">Bolo de Banana com Aveia</li>
+                </ul>
+
+                <p class="titulo-3">Ingredientes:</p>
+                <ul class="lista">
+                    <li>5 bananas médias;</li>
+                    <li>1 xícara de chá de farinha de aveia;</li>
+                    <li>1 xícara de chá de aveia de flocos finos;</li>
+                    <li>1 colher de sopa de óleo;</li>
+                    <li>1 xícara de chá de açúcar demerara;</li>
+                    <li>2 ovos;</li>
+                    <li>1 colher de sopa de fermento em pó.</li>
+                </ul>
+
+                <p class="titulo-3">Modo de preparo:</p>
+                <ul class="lista">
+                    <li>Coloque em uma vasilha as bananas e amasse bem. Acrescente a farinha e a aveia, o óleo, o açúcar e os ovos. Mexa bem e depois coloque o fermento. Unte a forma com pouco óleo, e leve para assar em forno pré-aquecido a 180 °C por cerca de 25 minutos.</li>
+                
+                </ul>
+            </div>
+
+<!-- cookie -->
+            <div class="margens">
+                <ul class="lista-titulo">
+                    <li class="titulo-1">Cookie de Banana e Chocolate</li>
+                </ul>
+
+                <p class="titulo-3">Ingredientes:</p>
+                <ul class="lista">
+                    <li>4 e ½ colheres de sopa de aveia em flocos finos;</li>
+                    <li>1 banana-prata;</li>
+                    <li>1 pitada de canela em pó;</li>
+                    <li>1 e ½ colher de sopa de farinha de linhaça;</li>
+                    <li>2 tabletes de chocolate meio amargo;</li>
+                    <li>½ colher de chá de óleo (para untar a forma)</li>
+                </ul>
+
+                <p class="titulo-3">Modo de preparo:</p>
+                <ul class="lista">
+                    <li>Amasse a banana e depois adicione a aveia, a linhaça, a canela e os tabletes de chocolate meio amargo ralado. Por fim, modele o cookie e coloque em uma fôrma untada, levando ao forno até ficar dourado.</li>
+                
+                </ul>
+            </div>
+
+            <!-- salgado -->
+<!-- coxinha -->
+            <div class="margens">
+                <img src="sal.svg" alt="">
+                <ul class="lista-titulo">
+                    <li class="titulo-1">Coxinha de Frango com Batata Doce</li>
+                </ul>
+
+                <p class="titulo-3">Ingredientes:</p>
+                <ul class="lista">
+                    <li>1 um média de batata-doce cozida e amassada;</li>
+                    <li>2 filés de frango desfiado;</li>
+                    <li>Salsinha (ou coentro) e cebolinha a gosto Orégano a gosto;</li>
+                    <li>1 ovo (para pincelar);</li>
+                    <li>Farinha de linhaça ou aveia para empanar;</li>
+                    <li>Azeite para untar.</li>
+                </ul>
+
+                <p class="titulo-3">Modo de preparo:</p>
+                <ul class="lista">
+                    <li>Coloque a batata e misture com os temperos até ficar bem homogêneo. Em seguida, faça um molde de bolinha e amasse, coloque o frango e modele no formato de coxinha. Passe no ovo e na farinha desejada. Coloque em uma assadeira untada com azeite por 40 minutos em forno a 180 °C.
+                    </li>
+                
+                </ul>
+            </div>
+
+<!-- rosquinha -->
+            <div class="margens">
+                <ul class="lista-titulo">
+                    <li class="titulo-1">Coxinha de Frango com Batata Doce</li>
+                    <li class="titulo-2">100kcal</li>
+                </ul>
+
+                <p class="titulo-3">Ingredientes:</p>
+                <ul class="lista">
+                    <li>2 xícaras de chá de polvilho azedo;</li>
+                    <li>1 colher de sopa de óleo (sugestão: de coco ou de canola, ou de girassol);</li>
+                    <li>1 ovo;</li>
+                    <li>¼ xícara de chá de água quente;</li>
+                    <li>1 pitada de sal.</li>
+                </ul>
+
+                <p class="titulo-3">Modo de preparo:</p>
+                <ul class="lista">
+                    <li>Misture com ajuda de uma espátula o polvilho, o óleo de coco, o ovo e o sal. Em seguida, acrescente a água quente e amasse até obter uma massa homogênea. Molde no formato de rosquinhas, ou o formato que desejar, e coloque em uma assadeira, deixando espaço entre eles. Asse em forno pré-aquecido a 180 °C por cerca de 15 minutos.
+                    </li>
+                
+                </ul>
+            </div>
+        
+        
+        <div class="nome-receita">
+            <img src="janta.svg" alt="">
+        </div>
+
+<!-- abobrinha -->
+            <div class="margens">
+                <ul class="lista-titulo">
+                    <li class="titulo-1">Abobrinha recheada com carne ao molho de tomate orgânico</li>
+                    <li class="titulo-2">214 kcal</li>
+                </ul>
+
+                <p class="titulo-3">Ingredientes:</p>
+                <ul class="lista">
+                    <li>2 abobrinhas orgânicas cortadas ao meio;</li>
+                    <li>1 cebola orgânica, picada;</li>
+                    <li>2 colheres (sopa) de azeite extravirgem orgânico;</li>
+                    <li>2 unidades de tomate italiano orgânico, cortados em cubos;</li>
+                    <li>150g de carne moída resfriada de bovino (coxão mole de novilho);</li>
+                    <li>1 unidade de mini pão francês congelado integral, sem miolo torrado e esfarelado;</li>
+                    <li>1/4 xícara (chá) de minas frescal orgânico, ralado grosso;</li>
+                    <li>1/4 de xícara (chá) de ricota fresca orgânica, esfarelada;</li>
+                    <li>1 pote de molho de tomate tradicional orgânico;</li>
+                    <li>Sal e pimenta a gosto;</li>
+                    <li>Folhas de salsa orgânica.</li>
+                </ul>
+
+                <p class="titulo-3">Modo de preparo:</p>
+                <ul class="lista">
+                    <li>Com o auxílio de uma colher retire o miolo das abobrinhas. Reserve. Em uma panela, aqueça o azeite e doure a cebola, junte a carne moída, o miolo das abobrinhas e refogue até que a carne esteja cozida. Tempere com o sal e a pimenta. Junte os cubos de tomate e a ricota esfarelada. Coloque o molho em uma assadeira, as abobrinhas recheadas e por cima coloque a farofinha de pão e o queijo branco. Leve ao forno preaquecido a 200 °C durante 20 minutos. Salpique as folhas de salsa e sirva em seguida.</li>
+                
+                </ul>
+            </div>
+
+<!-- batata -->
+            <div class="margens">
+                <ul class="lista-titulo">
+                    <li class="titulo-1">Batata grelhada com creme de palmito</li>
+                    <li class="titulo-2">115 Kcal</li>
+                </ul>
+
+                <p class="titulo-3">Ingredientes:</p>
+                <ul class="lista">
+                    <li>2 unidades de batata inglesa orgânica, grandes</li>
+                    <li>Sal a gosto</li>
+                    <li>Azeite extravirgem</li>
+                    <li>½ pote de palmito de açaí orgânico, escorrido e picado</li>
+                    <li>1 cebola orgânica, cortada em rodelas finas</li>
+                    <li>1 tomate orgânico, cortados em cubos</li>
+                    <li>2 colheres (sopa) de requeijão light com fibras</li>
+                    <li>¼ de xícara (chá) de castanha do Pará orgânica, picada grosseiramente</li>
+                    <li>Salsa e cebolinha orgânica, picadas</li>
+                    <li>Sal e pimenta a gosto</li>
+                </ul>
+
+                <p class="titulo-3">Modo de preparo:</p>
+                <ul class="lista">
+                    <li>Corte as batatas em fatias grossas no sentido do cumprimento. Cozinhe na água com sal até ficarem macias e firmes. Escorra. Em uma frigideira antiaderente, aqueça um pouco de azeite e grelhe as fatias de batatas dos dois lados até ficarem bem douradas. Reserve. Em uma frigideira antiaderente, aqueça o azeite, doure a cebola, acrescente o tomate, o palmito, o sal e a pimenta. Desligue o fogo, misture o requeijão. Distribua esse creme sobre as fatias de batata, salpique a castanha, a salsa e a cebolinha. Sirva em seguida.</li>
+                
+                </ul>
+            </div>
+
+<!-- caldo -->
+            <div class="margens">
+                <ul class="lista-titulo">
+                    <li class="titulo-1">Caldo de frango com legumes e batata-doce</li>
+                    <li class="titulo-2">336 Kcal</li>
+                </ul>
+
+                <p class="titulo-3">Ingredientes:</p>
+                <ul class="lista">
+                    <li>½ pacote de filé de peito de frango congelado, temperado a gosto, cozido e desfiado em lascas grandes</li>
+                    <li>2 colheres (sopa) de azeite extravirgem</li>
+                    <li>1 cebola orgânica</li>
+                    <li>1 colher (café) de páprica picante</li>
+                    <li>1 lata de tomate pelado</li>
+                    <li>Sal e pimenta a gosto</li>
+                    <li>400ml de caldo caseiro de legumes orgânicos</li>
+                    <li>2 batatas doces orgânicas, cortadas em cubos</li>
+                    <li>1 xícara (chá) de ervilha congelada</li>
+                    <li>Salsa para decorar</li>
+                </ul>
+
+                <p class="titulo-3">Modo de preparo:</p>
+                <ul class="lista">
+                    <li>Em uma panela, aqueça o azeite extravirgem e doure a cebola com a páprica. Em seguida, misture o tomate pelado, cortado em pedaços grandes, com o caldo, um pouco de sal e a pimenta. Junte o caldo de legumes e as batatas. Deixe cozinhar até as batatas ficarem macias, junte o frango e as ervilhas e cozinhe por mais 5 minutos. Para finalizar, salpique as folhas de salsa e sirva em seguida, bem quente.</li>
+                
+                </ul>
+            </div>
+
+<!-- escondidinho -->
+            <div class="margens">
+                <ul class="lista-titulo">
+                    <li class="titulo-1">Escondidinho de frango</li>
+                    <li class="titulo-2">357 Kcal</li>
+                </ul>
+
+                <p class="titulo-3">Ingredientes:</p>
+                <ul class="lista">
+                    <li>4 unidades de batata-doce orgânica</li>
+                    <li>2 colheres (sopa) de requeijão light com fibras </li>
+                    <li>1 pote de iogurte natural desnatado</li>
+                    <li>½ xícara (chá) de queijo minas frescal orgânico, ralado fino</li>
+                    <li>Sal e pimenta a gosto</li>
+                    <li>3 colheres (sopa) de azeite extravirgem</li>
+                    <li>1 cebola orgânica, picada</li>
+                    <li>2 tomates orgânicos, sem sementes em cubos</li>
+                    <li>100g de vagem orgânica, picada</li>
+                    <li>1 cenoura orgânica, cortada em cubos pequenos</li>
+                    <li>1 vidro de palmito de açaí orgânico, picado</li>
+                    <li>500g de filés de peito de frango congelados, temperado, cozido e desfiado</li>
+                    <li>Salsa orgânica, picada a gosto</li>
+                    <li>Folhas de tomilho a gosto</li>
+                </ul>
+
+                <p class="titulo-3">Modo de preparo:</p>
+                <ul class="lista">
+                    <li>Na água com um pouco de sal, cozinhe as batatas até ficarem bem macias. Ainda quente passe no espremedor. Acrescente uma colher de azeite, o requeijão, o iogurte e o queijo. Tempere com o sal, a pimenta e misture bem até formar um purê. Reserve. Em uma frigideira, aqueça o restante do azeite, doure a cebola, junte a cenoura, a vagem e refogue. Acrescente o tomate, o palmito e o frango desfiado fino, tempere com sal e a pimenta. Desligue o fogo e misture a salsa. Em travessinhas individuais, coloque uma porção de frango e cubra com o purê. Leve ao forno para gratinar e sirva em seguida.
+                    </li>
+                </ul>
+            </div>
+
+<!-- escondidinho -->
+            <div class="margens">
+                <ul class="lista-titulo">
+                    <li class="titulo-1">Escondidinho de frango</li>
+                    <li class="titulo-2">357 Kcal</li>
+                </ul>
+
+                <p class="titulo-3">Ingredientes:</p>
+                <ul class="lista">
+                    <li>4 unidades de batata-doce orgânica</li>
+                    <li>2 colheres (sopa) de requeijão light com fibras </li>
+                    <li>1 pote de iogurte natural desnatado</li>
+                    <li>½ xícara (chá) de queijo minas frescal orgânico, ralado fino</li>
+                    <li>Sal e pimenta a gosto</li>
+                    <li>3 colheres (sopa) de azeite extravirgem</li>
+                    <li>1 cebola orgânica, picada</li>
+                    <li>2 tomates orgânicos, sem sementes em cubos</li>
+                    <li>100g de vagem orgânica, picada</li>
+                    <li>1 cenoura orgânica, cortada em cubos pequenos</li>
+                    <li>1 vidro de palmito de açaí orgânico, picado</li>
+                    <li>500g de filés de peito de frango congelados, temperado, cozido e desfiado</li>
+                    <li>Salsa orgânica, picada a gosto</li>
+                    <li>Folhas de tomilho a gosto</li>
+                </ul>
+
+                <p class="titulo-3">Modo de preparo:</p>
+                <ul class="lista">
+                    <li>Na água com um pouco de sal, cozinhe as batatas até ficarem bem macias. Ainda quente passe no espremedor. Acrescente uma colher de azeite, o requeijão, o iogurte e o queijo. Tempere com o sal, a pimenta e misture bem até formar um purê. Reserve. Em uma frigideira, aqueça o restante do azeite, doure a cebola, junte a cenoura, a vagem e refogue. Acrescente o tomate, o palmito e o frango desfiado fino, tempere com sal e a pimenta. Desligue o fogo e misture a salsa. Em travessinhas individuais, coloque uma porção de frango e cubra com o purê. Leve ao forno para gratinar e sirva em seguida.
+                    </li>
+                </ul>
+            </div>
+
+    <footer>
+            <div id="box_logo_ifc">
+                <p id="agradecimentos">Agradecimentos</p> 
+
+                <a href="https://concordia.ifc.edu.br" target="_blank">
+                    <img id="logo_ifc" src="logo-if-h.png" alt="logo instituto" >
+                </a>
+
+                <p id="referencias"><a href="https://drive.google.com/file/d/1NY6yKba-By_RgEpCgDLtIt2xMQCz2SrR/view" target="_blank">Referêcias</a></p>
+            </div> 
+
+
+            <div class="text_center_footer">
+                <p>O conteúdo presente nesse site possui um caráter informativo e não substitui a consulta com um profissional de saúde.</p>
+                <p>O site Você Saudável é um projeto do  componente curricular, Projeto Integrador, do Instituto Federal Catarinense campus Concórdia.</p>
+                <p>Criadoras: Bruna Czarnobay, Josiele Scheuermann e Maíra Herpich.</p>
+                <p>Dezembro/2021</p>
+            </div>
+
+            
+        </footer>
+    </body>
+</html>
