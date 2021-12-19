@@ -106,3 +106,288 @@ footer a {
     color: white;
     text-decoration: none;
 }
+
+-----------------atualizado 18/12/2021-------------------------
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400&display=swap'); 
+/* texto */
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@600&display=swap');
+/* titulo simple text */       
+       
+       /* cabeçalho */
+body {
+    background-color: #f3f3f3ff;
+    padding: 0px;
+    margin: 0;
+    border: 0;
+}
+
+.topo {
+    width: auto;
+    top: 0px;
+}
+
+.cabecalho {
+    width: auto;
+    top: 0;
+}
+
+.cabecalho>img {
+    width: 100%;
+    height: 500px;
+}
+
+        /* navbar */
+        
+nav{
+    background-color: #2d1650ff;
+    font-family: Century Gothic;
+    font-size: 16px;
+    padding-top: 1px;
+    padding-left: 2px;
+    padding-bottom: 1px;
+    word-spacing: 20px;
+    text-align: left;
+    font-weight: bold;
+    top: 0;
+    width: 100%;
+    position: fixed;
+}
+
+nav>ul>li>a:hover {
+    color: #ff7f35;
+    transition: 0.8s;
+}
+
+.lista-nav{
+    display: inline;
+    text-decoration: none;  
+    color: #e5d5ffff;
+}
+
+li>a{
+    color: #e5d5ffff;
+    text-decoration: none;
+}
+
+li>a>span {
+    color: #ff7f35;
+}
+
+        /* importancia */
+
+.importancia>img {
+    margin-bottom: 2rem;
+}
+
+.importancia {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    margin-right: 5rem;
+    margin-left: 5rem;
+    
+}
+
+.texto-importancia {
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.3;
+
+    margin-bottom: 2rem;
+}
+
+.lista-importancia {
+    list-style-type: circle;
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+
+}
+
+.desenvolver {
+    margin-bottom: 5rem;
+    margin-right: 5rem;
+    margin-left: 5rem;
+}
+
+        /* carrossel */
+
+.carrossel {
+    margin-top: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 940px;
+    height: 480px;
+    overflow: hidden;
+}
+
+.carrossel .artes {
+    width: 800%;
+    animation-name: animation;
+    animation-duration: 15s;
+    animation-iteration-count: infinite;
+}
+
+.carrossel .artes img {
+    width: 12.4%;
+}
+
+@keyframes animation {
+    0% { margin-left: 0; }
+    20% { margin-left: 0; }
+    25% { margin-left: -100%; }
+    45% { margin-left: -100%; }
+    50% { margin-left: -200%; }
+    70% { margin-left: -200%; }
+    75% { margin-left: -300%; }
+    95% { margin-left: -300%; }
+    100% { margin-left: -400%; }
+}
+
+        /* orientacoes praticas */
+
+.orientacoes-praticas {
+    margin-bottom: 5rem;
+    margin-right: 5rem;
+    margin-left: 5rem;
+}
+
+.orientacoes-praticas>p {
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.3;
+}
+
+.link {
+    text-decoration: none;
+    color: #ff7f35;
+    font-weight: bold;
+}
+
+div>p>a:hover {
+    color: #43074B;
+    transition: 0.8s;
+}
+
+div>ul>li>a:hover {
+    color: #43074B;
+    transition: 0.8s;
+}
+
+
+       /* simple text */
+
+.simple_text {
+    margin-top: 5rem;
+    margin-right: 5rem;
+    margin-left: 5rem;
+    padding-bottom: 15px;
+
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+h1 {
+    font-family:  'Titillium Web', sans-serif;
+    line-height: 1.5;
+    font-weight: 700;
+    font-size: 30px;
+    color: #650A71;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    /* text-align: justify; */
+    /* line-height: 1.5; */
+}
+
+div p span {
+    font-weight: bold;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 20px;
+    color: #399376ff;
+}
+
+.fundo {
+    background-color: #E4E6F1;
+    
+
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1.5rem;
+    padding-bottom: 2rem;
+
+ 
+}
+
+        /* fc */
+
+.fc {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    margin-right: 5rem;
+    margin-left: 5rem;
+}
+
+/* execicios */
+
+.exercicios {
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+    line-height: 1.5;
+
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+
+         /* rodapé */
+ 
+footer {
+    background-color: #f9f9f9ff;
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+
+}
+
+footer a {
+    text-decoration: none;
+    color: black;
+}
+
+#referencias {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    color: black;
+
+}
+
+.text_center_footer {
+    align-items: center;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 9px;
+    color: black;
+}
+
+        /* div logo ifc */
+
+#box_logo_ifc {
+    margin-left: 2rem;
+    float: left;
+} 
+
+#logo_ifc {
+    display: block;
+    width: 180px;
+}
+
+#agradecimentos {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    color: black;
+}
