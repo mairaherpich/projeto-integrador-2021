@@ -225,3 +225,249 @@
     </body>
 </html>
 
+-----------------------------------atulizado 18/12/2021-----------------------
+
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<title>Obesidade</title>
+        <link rel="shortcut icon" href="icon.svg" >
+		<link rel="stylesheet" type="text/css" href="corpo.css">
+	</head>
+    <body>
+        <header>
+            <div class="topo">
+                <nav>
+                    <ul>
+                        <li class="lista-nav"><a href="#"><span> Obesidade </span> </a></li>
+                        <li class="lista-nav"><a href="alimentacao.html"> Alimentação </a></li>
+                        <li class="lista-nav"><a href="receitas.html"> Receitas </a></li>
+                        <li class="lista-nav"><a href="exercicios.html"> Exercícios </a></li>
+                        <li class="lista-nav"><a href="sobre.html"> Sobre </a></li>
+                    </ul>
+                </nav>
+
+                <div class="cabecalho">
+                    <img src="nav_obesidade.svg">
+                </div>
+            </div>
+        </header>
+
+        <div class="box_obesidade">
+            <div id="img_obesidade">
+                <img src="fato_obesidade.svg" alt="o de fato obesidade? " width="520px" height="243px">
+            </div>
+
+            <div id="text_obesidade">
+                <p>A obesidade é caracterizada pelo acúmulo excessivo de gordura no corpo e é considerada uma doença crônica. É um distúrbio nutricional que pode ser causado por vários fatores. O aumento do sobrepeso e obesidade deve-se em  95% dos casos a  maus hábitos alimentares, sedentarismo e fatores psicossociais. Cerca de 5% dos obesos  exibirão alguma causa identificada, 2% associadas à genética e o restante está associado a medicamentos. A obesidade condiz com um aumento de peso, mas nem todo aumento de peso está relacionado à obesidade, a exemplo de muitos atletas, que são “pesados” devido à massa muscular.
+                </p>
+                <p>Ficou interessado para saber mais? Então confira o que o Dr. Drauzio Varella diz sobre <a class="link" href="https://youtu.be/FF9qazQ-Gwc" target="_blank"> obesidade. </a></p>
+            </div>
+        </div>
+
+        <div class="simple_text">
+            <h1>
+                E como sei se ESTOU OBESO?
+            </h1>
+            <p>Isto é simples, precisamos realizar um cálculo de IMC. Caso você não saiba, IMC significa índice de massa corporal. Para sabermos se nosso peso está de acordo com a altura, podemos utilizar a seguinte a fórmula: IMC = peso / (altura x altura). O peso deve estar em kg e a altura em metros. O resultado resulta em kg/m². 
+            </p>
+            <p>Lembrando que o IMC não é um índice suficiente para determinar a saúde de uma pessoa, logo abaixo falamos sobre o teste de bioimpedância, sendo ele o mais eficaz. Segundo o médico endocrinologista e pesquisador principal do centro de pesquisa em obesidade e comorbidades da Universidade Estadual de Campinas, Bruno Geloneze, no IMC não leva-se em consideração a composição corporal de um indivíduo (quantidade de massa muscular e gordura). </p>
+            <p>Por conta deste parâmetro, o cálculo de IMC não é recomendado para atletas, pois apresentam um peso maior por conta do percentual de massa muscular. Grávidas também não devem usar esse índice, já que indicará um peso maior por conta do bebê. O IMC funciona perfeitamente para crianças entre dois anos e início da puberdade.</p>
+            <p>Após ter calculado, observe em que estado você se encontra:</p>
+        </div>
+
+        <div>
+            <img id="tabela_obesidade" src="tabela_obesidade.png" alt="" width="100%" height= "350px">
+        </div>
+            
+        <div class="texto_tabela">
+            <p><span>MAGRESA:</span> Se seu IMC está abaixo de 18,5 kg/m2 você está abaixo do peso. Isso pode ser uma característica pessoal 
+                ou um sinal de desnutrição. Caso você continue perdendo peso constantemente procure um médico.
+            </p>
+            <p><span>NORMAL:</span> Se seu IMC está entre 18,5 e 24,9kg/m2 seu peso está adequado para sua altura. Vale lembrar que o IMC não
+                 é sinônimo de saúde, para evitar doenças a longo prazo e ter mais qualidade de vida, tenha uma dieta balanceada e realize exercícios físicos. 
+            </p>
+            <p><span>SOBREPESO: </span>Se seu IMC está entre 24,9 e 30 kg/m2 é um sinal de alerta, você deve investigar as causas do ganho de
+                 peso, que geralmente incluem sedentarismo e má alimentação. 
+            </p>
+            <p><span>OBESIDADE: </span>Se seu IMC está entre 30,0 e 40,0 kg/m2 está em grau de obesidade e exige atenção médica e mudança de 
+                hábitos urgente. Em grau de obesidade o risco de desenvolvimento das doenças é muito maior. 
+            </p>
+        </div>
+
+        <div class="teste-bio">
+            <img src="teste-bio.svg" alt="">
+
+            <div class="bio-texto">
+            <p>O método mais eficaz para saber da sua saúde é o teste de bioimpedância elétrica, este exame avalia a composição corporal estimando a gordura corporal,  total de água corporal e estima a quantidade de massa magra no corpo, entre outros dados mais precisos sobre o estado nutricional do paciente.</p>
+            <p>Pode ser realizado em consultas de avaliação, acompanhamento nutricional ou em pacientes que tenham encaminhamento para realizar somente o exame. É contraindicado para gestantes e portadores de marcapasso.</p>
+            </div>
+    
+        </div>
+
+        <div class="sedentarismo">
+            <img src="sedentario.svg" alt="">
+
+            <div class="atividades-sedentarismo">
+                <p class="texto">Reduza o tempo em que você fica sentado ou deitado assistindo televisão ou usando o celular , computador ou videogame, saia da sua zona de conforto, aproveite as tarefas diárias para se exercitar. Pequenas mudanças geram resultados no futuro e melhoram sua qualidade de vida!</p>
+                <img class="sofa" src="sofa.svg" alt="">
+
+                <p>Saia um pouco da sua zona de conforto, aproveite as tarefas diárias para se exercitar. Essas pequenas mudanças geram resultados no futuro!</p>
+                <p>Algumas sugestões de trocas inteligentes e mais saudáveis:</p>
+                <ul class="lista-cotidiano">
+                    <li>Sempre que possível, troque os elevadores pelas escadas;</li>
+                    <li>Caso tenha um animal de estimação, passeie com ele com mais frequência;</li>
+                    <li>Desça um ou dois pontos de ônibus antes e vá andando ao seu destino;</li>
+                    <li>Para pequenos trajetos, peça para seu responsável deixar o carro em casa e vá andando;</li>
+                    <li>Passe mais tempo ao ar livre – conheça as praças e parques próximos de sua casa.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="box_fatores">
+
+            <div id="img_fatores">
+                <img src="fatores.svg" alt="fatores" height='187px' width='600px'>
+            </div>
+
+            <div id="text_fatores">
+                <p>A obesidade aparece a partir do momento que a quantia de alimentos ingeridos supera muito a quantidade de energia gasta nas
+                     atividades físicas diárias. Outros fatores como genética, situação socioeconômica, ambiente em que vivemos, também 
+                     interferem. <br>
+                </p>
+                <p>
+                    Podemos perceber pelo estilo de vida dos jovens de hoje, é muito pouco o tempo da prática de atividades físicas comparado 
+                    ao tempo utilizado para telas e eletrônicos. Hábitos alimentares também mudaram, muitas vezes sendo consumido fast-foods e 
+                    alimentos processados por serem mais acessíveis.
+                </p>
+                <p id="lembre-se">Lembre-se que obesidade possui diversas causas:</p>
+            </div>
+        
+        </div>
+
+        <div class='fatores_icones'>
+            <img class='icones'src="genetica.svg" alt=""> 
+                <p class="text"> <span> GENÉTICA:</span> A genética influencia, por exemplo: pessoas da mesma família muitas vezes tem 
+                excesso de peso, mesmo que não vivam juntas, ou seja, o risco de obesidade é superior para descendentes de pessoas obesas, 
+                quando os pais são obesos a chance é de 80% do filho desenvolver obesidade. </p> <br>
+
+            <img class="icones" src="fastfood.svg" alt="">
+                <p class="text"> <span>ALIMENTAÇÃO: </span> Falta de cuidado na alimentação ingerindo muitas comidas processadas e 
+                industrializadas costumam contribuir para o ganho de peso, açúcares e carboidratos são alimentos ricos em calorias, usados 
+                para fonte de energia do corpo, mas quando ingeridas em excesso favorecem o desenvolvimento da obesidade.</p><br>
+
+            <img class="icones" src="exercicio.svg" alt="">
+                <p class="text"> <span> ESTILO DE VIDA: </span>As crianças e adolescentes dedicam menos tempo a exercícios físicos e 
+                muito mais tempo aos eletrônicos, essa é uma das principais causas de obesidade, por conta desse pouco tempo dedicado às 
+                atividades físicas, os jovens  acabam ficando mais sedentários.</p><br>
+
+            <img class="icones" src="medicamentos.svg" alt="">
+                <p class="text"> <span> MEDICAMENTOS: </span>Alguns remédios usados no tratamento de depressão, diabetes e 
+                corticoides, podem levar ao ganho de peso, porque incham e aumentam o apetite. </p><br>
+
+            <img class="icones" src="molecula.svg" alt="">
+                <p class="text"> <span> HORMÔNIOS: </span>Crianças e adolescentes podem ter alterações glandulares que propiciam o ganho de peso,
+                 doenças hormonais raramente são a causa exclusiva da obesidade, mas cerca de 10% dessas pessoas tem o risco maior de ser obeso.</p><br>
+            
+            <img class="icones" src="mente.svg" alt="">
+                <p class="text"> <span> FATORES PSICOLÓGICOS: </span>O aumento de peso muitas vezes pode estar ligado a questões emocionais, 
+                quando a pessoa tem um sentimento de tristeza, depressão, preconceito, baixa estima, etc… elas favorecem um mecanismo de 
+                recompensa, porque comer é prazeroso, mas quando ela se sente triste a maior parte do tempo, e não possui energia nem para se 
+                exercitar, acaba não gastando as calorias e gorduras ingeridas.</p><br>
+
+            <img class="icones" src="neuronio.svg" alt="">
+                <p class="text"><span>COMPLICAÇÕES NEUROLÓGICAS: </span>A obesidade também pode ser causada por lesões  ou tumores
+                 cerebrais, radioterapia e inflamação do hipotálamo (uma parte do cérebro).</p><br>
+
+        </div>
+
+        <div id="box_doencas">
+
+            <div id="img_doencas">
+                <img src="doencas.png" alt="doenças" height='200px' width='680px'></div>
+            <div id="text_doencas">
+                <p>O acúmulo de gordura no organismo aumenta o risco de muitas outras doenças e ainda pode trazer prejuízos tanto para a vida pessoal quanto para a profissional, pois pessoas obesas são mais propensas à depressão e ansiedade. Segundo dados do Ministério da Saúde, a taxa de obesidade subiu de 5,5% para 8,9% da população brasileira, a taxa de hipertensão arterial passou de 22,5% para 27,5% da população.
+                </p>
+                <p>O acúmulo de gordura pode ainda aumentar o risco de outras doenças como aumento do colesterol e triglicérides, apneia do sono, acúmulo de gordura no fígado, infarto do miocárdio, acidente vascular cerebral e pode estar associado ao surgimento de alguns tipos de câncer.</p>
+            </div>
+        </div>
+
+        <div id="box_taxas">
+
+            <div id="img_taxas">
+                <img src="taxas.svg" alt="taxas" height='188px' width='635px'></div>
+            <div id="text_taxas">
+                <p>Segundo a PNS (Pesquisa Nacional de Saúde), adolescentes com idades entre 15 e 17 anos, estão acima do peso. Foi constatado que 19,4% da população, sobre de obesidade (1,8 milhão de pessoas), sendo mais elevado em adolescentes do sexo feminino. Segundo a PNS 2019, 29,5% das mulheres têm obesidade — praticamente uma em cada três — contra 21,8% dos homens. O sobrepeso foi encontrado em 62,6% delas e em 57,5% deles. 
+                </p>
+                <p>A obesidade em adolescentes com idades entre 15 e 17 anos ficou em 6,7%, com cerca de 8,0% para o sexo feminino e 5,4% no sexo masculino. O Ministério da Saúde vem investindo em ações de promoção da saúde com tratamentos e prevenções, incluindo até mesmo programas, materiais, publicações temáticas que promovem uma alimentação saudável e adequada entre outras iniciativas como o: Programa Crescer Saudável, é uma ação entre a saúde e a educação para garantir e fortalecer o acompanhamento do crescimento e desenvolvimento na infância, para controlar e prevenir a obesidade infantil. O Programa Saúde na Escola, desde 2017 faz o acompanhamento da saúde dos estudantes das redes públicas de ensino da educação básica.</p>
+            </div>
+        </div>
+
+        <div class="tratamento" >
+            <img class="imagem" src="tratamento.svg" alt="">
+            <p>A base do tratamento para a obesidade é a mudança de vida, começando por atividades físicas e refeições mais saudáveis. Sem isso, dificilmente se atingirá uma perca de peso necessária. </p>
+
+            <div>
+                <h1 class="titulo-sub-itens">
+                    REEDUCAÇÃO ALIMENTAR
+                </h1>
+                <p>A reeducação alimentar é fundamental, não são recomendadas dietas muito restritas com menos de 800 calorias por exemplo, essa é uma restrição muito drástica. Dietas somente com alguns alimentos ou somente líquidos também não são recomendados, por apresentarem vários problemas. Dietas com excesso de gordura e proteína também são bem discutíveis, apenas pioram as alterações de gordura do paciente, aumentar a deposição de gordura no  fígado e outros órgãos.</p>
+
+                <h1 class="titulo-sub-itens">
+                    EXERCÍCIOS
+                </h1>
+                <p>É importante lembrar que atividade física é qualquer movimento corporal produzido por músculos esqueléticos que resulta em gasto energético e que o exercício é uma atividade física planejada e estruturada com o propósito de melhorar ou manter o condicionamento físico.
+                </p>
+                <p>O paciente deve ser orientado a realizar exercícios regulares, inicialmente leves e posteriormente moderados. Em algumas situações, podem requerer auxílio de um profissional, em outras uma simples caminhada que já provoca muitos benefícios.</p>
+
+                <h1 class="titulo-sub-itens">
+                    TRATAMENTO MEDICAMENTOSO
+                </h1>
+                <p>Existem poucas opções medicamentosas liberadas para ajudar no tratamento no Brasil. E somente é recomendada quando o paciente não perde peso somente com a mudança do estilo de vida. Quem vai indicar qual e se é necessário medicamentos é o médico, tudo depende do perfil e dificuldade de aderir à dieta adequada a cada paciente.</p>
+
+                <h1 class="titulo-sub-itens">
+                    TRATAMENTO CIRÚRGICO
+                </h1>
+                <p>As operações bariátricas e metabólicas estão cada vez mais indicadas para o tratamento da obesidade.</p>
+                <p>As indicações são para pacientes com o IMC acima de 40 kg/m2 ou IMC maior que 35 kg/m2, que apresentem comorbidades (doenças agravadas pela obesidade), como diabetes tipo 2, apneia do sono, hipertensão arterial, doenças do colesterol, doença coronariana, osteo artrites e outras. Os pacientes que têm IMC abaixo de 35, porém não têm doenças associadas, devem sem dúvidas, tentar o tratamento clínico antes.</p>
+            </div>
+        </div>
+
+        <div class="medique">
+            <img class="imagem" src="automedique.svg" alt="">
+            <p>Medicamentos não devem ser usados como forma de tratamento. Boa parte das substâncias atuam no cérebro e podem provocar nervosismo, aumento da pressão sanguínea, batimentos cardíacos acelerados, boca seca, intestino preso. O risco mais preocupante é o vício pelo medicamento, por isso, o tratamento deve ser acompanhado pelo médico.</p>
+            <p>Não deposite as esperanças apenas no medicamento, o resultado depende das mudanças nos hábitos de vida. Caso o remédio perca o efeito, consulte o médico e nunca aumente a dose por conta própria. Existem propagandas irregulares de medicamentos para emagrecer, não acredite em promessas de emagrecimento rápido e fácil. Não compre medicamentos pela internet ou em academias, muitos não são autorizados pelo Ministério da Saúde e podem fazer mal. Fórmulas de emagrecimento com várias substâncias misturadas são proibidas pelo Ministério da Saúde e já provocaram mortes.</p>
+        </div>
+
+        <div class="gordofobia">
+            <img class="imagem" src="gordofobia.svg" alt="">
+            <p>Diariamente pessoas gordas e obesas encontram desafios em transportes públicos, escritórios, restaurantes e outros ambientes que não estão preparados para acomodá-las. Eles sabem que muitas vezes são alvos de piadas, julgamentos ou opiniões desnecessárias.  O nome desse preconceito é “Gordofobia”, segundo o Dr. Adriano Segal, psiquiatra do Centro Especializado em Obesidade e Diabetes do Hospital Alemão Oswaldo Cruz, “Gordofobia é um neologismo para o comportamento de pessoas que julgam alguém inferior, desprezível ou repugnante por ser gordo. Funciona como qualquer outro preconceito baseado em uma característica única”.</p>
+            <p>Navegar pelo cotidiano pode trazer diversos desafios,  comprar roupas pode se tornar muito desgastante principalmente emocionalmente, por ser mais difícil achar peças de roupas que sirvam.</p>
+            <p>Quer saber mais?<a class="link" href="https://youtu.be/WCgg8HSqxXQ" target="_blank"> Veja aqui. </a> </p>
+        </div>
+
+    
+
+        <footer>
+            <div id="box_logo_ifc">
+                <p id="agradecimentos">Agradecimentos</p> 
+
+                <a href="https://concordia.ifc.edu.br" target="_blank">
+                    <img id="logo_ifc" src="logo-if-h.png" alt="logo instituto" >
+                </a>
+
+                <p id="referencias"><a href="https://drive.google.com/file/d/1NY6yKba-By_RgEpCgDLtIt2xMQCz2SrR/view" target="_blank">Referêcias</a></p>
+            </div> 
+
+
+            <div class="text_center_footer">
+                <p>O conteúdo presente nesse site possui um caráter informativo e não substitui a consulta com um profissional de saúde.</p>
+                <p>O site Você Saudável é um projeto do  componente curricular, Projeto Integrador, do Instituto Federal Catarinense campus Concórdia.</p>
+                <p>Criadoras: Bruna Czarnobay, Josiele Scheuermann e Maíra Herpich.</p>
+                <p>Dezembro/2021</p>
+            </div>
+        </footer>
+    </body>
+</html>
+
