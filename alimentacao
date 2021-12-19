@@ -128,3 +128,211 @@
     </body>
 </html>
 
+----------------------atualizado 18/12/2021-------------------
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Alimentação</title>
+        <link rel="shortcut icon" href="icon.svg" >
+		<link rel="stylesheet" type="text/css" href="alimentacao.css">
+	</head>
+    <body>
+        <header>
+            <div class="topo">
+                <nav>
+                    <ul>
+                        <li class="lista-nav"><a href="corpo.index.html"> Obesidade </a></li>
+                        <li class="lista-nav"><a href="#"> <span> Alimentação </span></a></li>
+                        <li class="lista-nav"><a href="receitas.html"> Receitas </a></li>
+                        <li class="lista-nav"><a href="exercicios.html"> Exercícios </a></li>
+                        <li class="lista-nav"><a href="sobre.html"> Sobre </a></li>
+                    </ul>
+                </nav>
+
+                <div class="cabecalho">
+                    <img src="nav-alimentacao.png" width='100%' height='200px'>
+                </div>
+            </div>
+        </header>
+
+        <div id="box_infancia">
+            <img id="img_infancia" src="infancia_adolescencia.png" alt="" > 
+            <p>
+                No Brasil, ainda existe um enorme número de famílias sem acesso a uma alimentação adequada, pois na maioria 
+                das vezes <strong>não possuem uma renda suficiente</strong>. Por outro lado, as escolhas alimentares são determinadas por muitos fatores, então 
+                <strong> condições financeiras não garantem uma alimentação saudável</strong>.
+            </p>
+
+            <p>Outros fatores que influencia nas escolhas alimentares:</p>
+            <ul class="lista">
+                <li class="itens-infancia">Preferências alimentares individuais;</li>
+                <li class="itens-infancia">Disponibilidade dos alimentos no mercado;</li>
+                <li class="itens-infancia">Influência das mídias, propagandas no mercado, na televisão;</li>
+                <li class="itens-infancia">Fatores sociais e culturais como nível socioeconômico;</li>
+                <li class="itens-infancia">Aspectos psicológicos;</li>
+                <li class="itens-infancia">Fatores biológicos e fisiológicos;</li>
+                <li class="itens-infancia">Estado de saúde;</li>
+                <li class="itens-infancia">Genética;</li>
+                <li class="itens-infancia">Estresse;</li>
+                <li class="itens-infancia">Qualidade do sono;</li>
+                <li class="itens-infancia">Preguiça;</li>
+                <li class="itens-infancia">Sensação de fome e saciedade;</li>
+                <li class="itens-infancia">Sedentarismo.</li>
+            </ul>
+
+            <p>É essencial ter uma boa alimentação desde a infância, para assim ter uma <strong> ótima qualidade de vida e evitar futuras complicações </strong>na vida adulta. Até mesmo uma dieta inapropriada da mãe durante a gestação pode influenciar em alguma futura doença na criança. Por isso a importância de se ter hábitos alimentares saudáveis desde cedo que proporcionarão níveis ideais de saúde e contribuírão para um <strong> perfeito desenvolvimento físico e intelectual evitando a obesidade e outros distúrbios alimentares</strong>.
+            Uma alimentação saudável na infância e na adolescência é essencial, pois <strong> promove o crescimento, o desenvolvimento e previne inúmeros problemas de saúde</strong>, tais como a anemia por deficiência de ferro, obesidade, e cárie dental; </p>
+            <p> parte de uma alimentação saudável, a maioria dos alimentos “in natura”, como: feijão, arroz, milho, trigo, frutas, 
+            legumes e verduras, sementes e castanhas, os quais devem ser consumidos em porções adequadas diariamente para garantir os nutrientes essenciais ao organismo. Além disso, uma <strong> alimentação saudável não significa uma alimentação cara ou de difícil acesso</strong>.
+            </p>
+        </div>
+
+        <div class="simple_text">
+            <h1>
+                Por que devemos incentivar a ALIMENTAÇÃO SAUDÁVEL NA INFÂNCIA?
+            </h1>
+
+            <p>Como todos sabem a infância é uma fase de desenvolvimento. Este é o período em que as crianças estão descobrindo, conhecendo o mundo e estão mais dispostas a aprender do que nunca. Por isso é ideal iniciar o incentivo a uma série de hábitos positivos que as crianças podem iniciar nessa faser e levar para a vida toda. Um desses habitos é a prática de esportes, por exemplo.  Essa é uma atividade que contribui muito no desenvolvimento físico, aumentando a capacidade motora, entre inúmeros outros benefícios, e também pode ser um importante meio de socializar.</p>
+            <p>Conforme a pessoa vai crescendo e atingindo novas fases da vida, fica cada vez mais difícil mudar alguns hábitos. Então, 
+            o ideal é que boas práticas comecem a fazer parte de nossas rotinas desde cedo.</p>
+            <p>A infância sem dúvidas é o melhor momento para inserir nas refeições os alimentos que possam trazer a maior quantidade de 
+            nutrientes para o corpo. Outro assunto muito importante é o consumo de frutas e verduras nesta fase da vida, mas o segredo de uma alimentação realmente saudável é a variedade e o valor nutricional do alimento.</p>
+            <p> As crianças precisam aprender a importância desses itens desses itens e incorporá-los durante a infância. Assim sem dúvidas, o caminho para uma vida mais saudável será mais fácil.</p>
+            <p>Quer <a class="link" href="https://youtu.be/eC7ikz_vrHY" target="_blank"> saber mais</a>? Assista ao vídeo do Dr. Drauzio Varella. </p>
+               
+        </div>
+
+        <div class="box-construindo">
+            <img src="construindo.svg" alt="">
+            <p>É muito questionado o porquê de, um passado não tão distante, as pessoas cozinharem com banha, pondo linguiça no feijão e comendo carne vermelha sem nenhum remorso. Isso para não falar do torresminho e das frituras (batata frita era servida em quase todas as refeições).</p>
+            <p>Assim nos deixando uma grande incógnita,  vemos os casos de obesidade subindo exponencialmente, mesmo se nós reduzirmos o consumo de  alimentos gordurosos e o consumo de carne vermelha. Comparando os dias atuais com o passado, vemos que naquele tempo a atividade física era intensa. As pessoas caminhavam, percorriam longas distâncias a pé e  atualmente as pessoas não se movimentam, não gastam calorias, acumulando e gerando a obesidade.
+            </p>
+            <p>A prática de uma dieta balanceada e hábitos alimentares saudáveis desde a infância proporcionarão níveis ideais de saúde e favorecerão  o perfeito desenvolvimento físico e intelectual, reduzindo os transtornos causados pelas deficiências nutricionais comuns a este estágio de desenvolvimento e evitando a manifestação da obesidade e outros distúrbios alimentares.</p>
+            <p>Os meios de comunicações e a tecnologia fazendo parte desde cedo nas vidas das crianças influenciam muito em sua alimentação. A televisão está repleta de anúncios de alimentos que, em geral, são de baixo teor nutritivo, assim aumentando a ingestão inadequada de alimentos por parte da população.</p>
+            <div class="setas">
+                <img id="seta" src="baixo.svg" alt="">
+                <h4>Alimentos com BAIXO teor nutritivo:</h4>
+                <ul>
+                    <li>Bolachas</li>
+                    <li>Refrigerantes</li>
+                    <li>Batata frita</li>
+                    <li>Pães, bolos e massas feitos com farinha branca</li>
+                    <li>Alimentos ricos em açúcar refinado como sucos prontos, sorvete e alimentos processados</li>
+                </ul>
+            </div>
+            <div  class="setas">
+                <img id="seta" src="cima.svg" alt="">
+                <h4>Alimentos com ALTO teor nutritivo:</h4>
+                <ul>
+                    <li>Frutas</li>
+                    <li>Legumes</li>
+                    <li>Peixe</li>
+                    <li>Carnes magras</li>
+                    <li>Carboidratos complexos como arroz integral, quinoa, aveia, centeio, inhame, batata-doce, feijão, ervilhas, grão-de-bico entre outros</li>
+                </ul>
+            </div>
+           
+        </div>
+
+        <div class="dicas">
+            <img id="img_dicas" src="dicas_saude.png" alt="">
+            <p class="texto_dicas">
+                Uma alimentação correta pode evitar muitos problemas como colesterol, pressão alta, diabetes e até mesmo câncer. 
+                A alimentação é a base para a nutrição e desenvolvimento durante a infância e adolescência.<br><br>
+            </p>
+            <p class="fundo">
+                <span>1-</span> Prefira os alimentos naturais;<br>
+                <span>2-</span> Aprenda a ler os rótulos<br>
+                <span>3-</span> Evite o excesso de sal e de açúcar<br>
+                <span>4-</span> Faça substituições.<br>
+                <span>5-</span> Invista nas frutas <br>
+                <span>6-</span> Saiba fazer combinações inteligentes<br>
+                <span>7-</span>Alimente-se devagar<br>
+                <span>8-</span> Mantenha-se hidratado<br>
+                <span>9-</span> Mude sua forma de se relacionar com a comida.<br>
+                <span>10-</span> Consumir legumes e verduras no almoço e no jantar
+            </p>
+        </div>
+        
+        <div class="box-piramide">
+            <img id="img-piramide" src="piramide.svg" alt="">
+
+            <p class="text-piramide">É importante salientar que a posição dos alimentos na pirâmide alimentar se dá por necessidade e quantidade.</p>
+            <img id='piramide-desenho'src="piramide-desenho.png" alt="piramide" width="480px" height="420px">
+            <h4>Recomendações para CRIANÇAS:</h4>
+            <p class="text-piramide">
+                <strong>Cereais, massas e vegetais:</strong> 6 porções<br>
+                <strong>Frutas:</strong> 2 porções<br>
+                <strong>Verduras:</strong> 3 porções<br>
+                <strong>Leite e derivados:</strong> 2 porções<br>
+                <strong>Carnes, ovos, feijões e nozes:</strong> 2 porções<br>
+                <strong>Açúcares e gorduras:</strong> moderação
+            </p>
+
+            <h4>Recomendações para ADOLESCENTES:</h4>
+            <p class="text-piramide">
+                <strong> Cereais, massas e vegetais C:</strong> 6 a 11 porções<br>
+                <strong>Frutas e verduras:</strong> 4 a 5 porções<br>
+                <strong>Leite e derivados:</strong> 3 a 4 porções<br>
+                <strong>Carnes, ovos, feijões e nozes:</strong> 2 a 3 porções<br>
+                <strong>Açúcares e gorduras</strong> moderação.
+            </p>
+
+            <div>
+                
+            </div>
+        </div>
+
+
+        
+        <div class="nutricional">
+            <img src="info-nutricional.svg" alt="">
+
+            <h4>HIDRATAÇAO</h4>
+            <p>Mais de 70% do corpo humano é composto de água. Ela ajuda a hidratar e a levar nutrientes ate as células, além de expulsar substancias tóxicas do nosso corpo através da urina e do suor.
+            É de extrema importância o seu consumo diário, uma dica é sempre ter uma garrafa cheia de água ao seu lado. Lembre-se: MANTENHA-SE HIDRATADO</p>
+
+            <h4>FIBRAS E PROBIÓTICOS</h4>
+            <p>Cereais e massas fazem parte do nosso dia-a-dia. Gergelim, aveia, chia, entre outros melhoram a qualidade de nossa alimentação. Fibras trazem muitos benefícios a saúde e auxiliam na perda de peso, pois causam maior satisfação, contribuindo para a diminuição da absorção das gorduras. Seu consumo adequado na alimentação é importante para a saúde do intestino, combater e prevenir futuras doenças, como prisão de ventre, obesidade e diabetes.</p>
+
+            <h4>FRUTAS, VERDURAS E LEGUMES</h4>
+            <p>Fazem parte de todo prato saudável. As frutas devem ser consumidas diariamente, elas fornecem muitas vitaminas, minerais, diferentes fibras, compostos protetores que nos ajudam a regular o organismo e antioxidantes que são nutrientes fundamentais para a proteção das células. As verduras e legumes possuem importantes fontes de carboidratos, água, fibras e vitaminas. Nas folhas das verduras têm clorofila, que limpa e oxigena o sangue. As que têm a cor (verde-escura) são fartas em ácido fólico, um importante antianêmico, e contém boas fontes de cálcio, fósforo e ferro.</p>
+
+            <h4>GORDURAS</h4>
+            <p>Lembre-se, nem toda gordura é vilã. As gorduras fornecem energia ao corpo. Elas fazem parte dos hormônios e da estrutura das células e fazem parte do transporte de vitaminas (A, D, E e K), importantes para prevenir problemas como cegueira, osteoporose e hemorragias. Nós precisamos ingerir diariamente, mas precisamos ficar ligados à quantidade e precisamos dar preferencia às gorduras boas. As fontes de gorduras boas são os peixes e alimentos de origem vegetal, como o azeite de oliva, o abacate e a azeitona. Esses alimentos protegem o coração e fornecem bastante energia. Evite as gorduras hidrogenadas e de origem animal, elas favorecem o aumento do colesterol e o aparecimento de aterosclerose.</p>
+
+            <h4>SAL</h4>
+            <p>Quando consumido em quantidade adequada, o sal aumenta os movimentos peristálticos dos intestinos, assim contribuindo para uma boa ingestão, auxilia o funcionamento renal, ajuda na produção de energia. Em média o brasileiro consome 15 g de sal por dia, além do sal já presente nos alimentos. Conforme os dados do Ministério da Saúde, 70% do sal consumido pelos brasileiros vêm da alimentação feita em casa e 30%, vêm de produtos industrializados. Segundo a Sociedade Brasileira de Cardiologia o consumo é de, no máximo 5 g por dia. A ingestão excessiva de sal, pode aumentar o risco de doenças do coração. </p>
+        </div>
+
+                <div class="agua">
+            <img id="agua" src="qnt-agua.svg" alt="">
+            <p>A quantidade exata de água que devemos beber diariamente varia muito conforme o peso, idade, estação do ano entre outros fatores, como atividades físicas, já que durante a prática do exercício é perdido mais líquido através do suor, assim sendo necessário consumir mais água. </p>
+            <p>(Saiba mais em: <a class="link" href="https://www.youtube.com/watch?v=RmOdsamN7xk" target="_blank"> Quanta água devemos beber? </a> — Dr. Drauzio Varella)</p>
+        </div>
+
+        <footer>
+            <div id="box_logo_ifc">
+                <p id="agradecimentos">Agradecimentos</p> 
+
+                <a href="https://concordia.ifc.edu.br" target="_blank">
+                    <img id="logo_ifc" src="logo-if-h.png" alt="logo instituto" >
+                </a>
+
+                <p id="referencias"><a href="https://drive.google.com/file/d/1NY6yKba-By_RgEpCgDLtIt2xMQCz2SrR/view" target="_blank">Referêcias</a></p>
+            </div> 
+
+
+            <div class="text_center_footer">
+                <p>O conteúdo presente nesse site possui um caráter informativo e não substitui a consulta com um profissional de saúde.</p>
+                <p>O site Você Saudável é um projeto do  componente curricular, Projeto Integrador, do Instituto Federal Catarinense campus Concórdia.</p>
+                <p>Criadoras: Bruna Czarnobay, Josiele Scheuermann e Maíra Herpich.</p>
+                <p>Dezembro/2021</p>
+            </div>
+        </footer>
+    </body>
+</html>
+
+
